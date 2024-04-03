@@ -17,7 +17,7 @@ For details about the permissions requested by the app, please refer to the `And
 | Permission | Why it is required |
 | :---: | --- |
 | `android.permission.MODIFY_AUDIO_SETTINGS` | This permission is needed to control the device's media volume and mute Ad videos. If revoked, Ad videos won't be muted. |
-| `android.permission.BIND_ACCESSIBILITY_SERVICE` | This permission ensures that the Accessibility Service can detect when an Ad is playing on YouTube and interact with the Ad skip button. Without this permission, the app won't be able to mute or skip Ads automatically.|
+| `android.permission.BIND_ACCESSIBILITY_SERVICE` | This permission ensures that the Accessibility Service can detect when an Ad is playing and interact with the Ad skip button. Without this permission, the app won't be able to mute or skip Ads automatically.|
 
  <hr style="border:1px solid gray">
 
