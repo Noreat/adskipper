@@ -1,2 +1,0 @@
-
-rootInActiveWindow.findAccessibilityNodeInfosByViewId("com.google.android.youtube:id/player_learn_more_button")
